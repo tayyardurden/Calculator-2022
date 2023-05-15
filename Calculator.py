@@ -15,9 +15,7 @@ logo = """
 |_____________________|
 """
 
-#Toplama
-def add(n1, n2):
-  return n1+n2
+"DÜNYANIN EN UZUN YOROUMUNU YAZMIŞ"
 
 #Toplama
 def add(n1, n2):
@@ -27,9 +25,6 @@ def add(n1, n2):
 def substract(n1, n2):
   return n1-n2
 
-#Çıkarma
-def substract(n1, n2):
-  return n1-n2
 
 #Çarpma
 def multiply(n1, n2):
