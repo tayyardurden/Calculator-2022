@@ -15,6 +15,9 @@ logo = """
 |_____________________|
 """
 
+#Toplama
+def add(n1, n2):
+  return n1+n2
 
 #Toplama
 def add(n1, n2):
