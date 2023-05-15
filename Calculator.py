@@ -17,6 +17,7 @@ logo = """
 
 "SANDEVİSTAN ÇOK ACAYİP "
 "DELİDOLU BİŞİ BU Tayyaristan"
+"ölümcül güzel ya"
 
 
 #Toplama
