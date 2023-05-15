@@ -19,10 +19,6 @@ logo = """
 def add(n1, n2):
   return n1+n2
 
-#Toplama
-def add(n1, n2):
-  return n1+n2
-
 #Çıkarma
 def substract(n1, n2):
   return n1-n2
