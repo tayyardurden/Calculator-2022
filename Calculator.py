@@ -15,6 +15,8 @@ logo = """
 |_____________________|
 """
 
+"SANDEVİSTAN ÇOK ACAYİP "
+
 
 #Toplama
 def add(n1, n2):
