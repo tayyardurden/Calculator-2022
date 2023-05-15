@@ -15,7 +15,6 @@ logo = """
 |_____________________|
 """
 
-"DÜNYANIN EN UZUN YOROUMUNU YAZMIŞ"
 
 #Toplama
 def add(n1, n2):
