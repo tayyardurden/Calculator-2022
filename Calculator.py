@@ -19,6 +19,7 @@ logo = """
 "DELİDOLU BİŞİ BU Tayyaristan"
 "ölümcül güzel ya"
 
+"BU SEFER BAŞKA YAZI EKLEDİM"
 
 #Toplama
 def add(n1, n2):
